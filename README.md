@@ -1,2 +1,2 @@
 # delta-demo
-This is temprory repo.
+This is temprory repo class.
